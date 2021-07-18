@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mky
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascripte
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Building StartUps
 - 📫 How to reach me @MkyCodes (Twitter)
 
